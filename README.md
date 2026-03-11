@@ -1,5 +1,5 @@
 Discord Deleter
-A web-based tool for bulk managing and deleting your Discord messages across servers and DMs.
+A web-based tool for bulk managing and deleting your Discord messages across servers and Dm.
 
 Live site:https://discorddeleter.lovable.app/
 
